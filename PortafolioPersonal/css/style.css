@@ -1,0 +1,19 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-main{
+    background-color: #00d3a7;
+}
+
+.bg-blue{
+    background-color: #00c7ff;
+}
+
+.bg-rosa{
+    background-color: #e84ec1;
+}
+
+.color-morado{
+    color: #7577ae;
+}
